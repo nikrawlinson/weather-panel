@@ -6,4 +6,4 @@ Requires a free OpenWeatherMap API key, which you can sign up for [here](https:/
 
 Also uses the [PyOWN library](https://pypi.org/project/pyowm/)
 
-![Weather Panel in action](http://url/to/img.png)
+![Weather Panel in action](https://github.com/nikrawlinson/weather-panel/blob/main/weather-panel-small.jpg)
