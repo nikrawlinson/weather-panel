@@ -4,5 +4,6 @@ Python project to produce a weather information screen using an Inky wHAT e-ink 
 
 Requires a free OpenWeatherMap API key, which you can sign up for [here](https://openweathermap.org/api).
 
-Also uses the [PyOWN library](https://pypi.org/project/pyowm/
-)
+Also uses the [PyOWN library](https://pypi.org/project/pyowm/)
+
+![Weather Panel in action](http://url/to/img.png)
