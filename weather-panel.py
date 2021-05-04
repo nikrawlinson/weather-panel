@@ -45,7 +45,7 @@ inky_display.set_border(inky_display.WHITE)
 img = Image.new("P", (inky_display.WIDTH, inky_display.HEIGHT))
 draw = ImageDraw.Draw(img)
 
-font_big = ImageFont.truetype(FredokaOne, 112)
+font_big = ImageFont.truetype(FredokaOne, 100)
 font_medium = ImageFont.truetype(FredokaOne, 36)
 font_small = ImageFont.truetype(FredokaOne, 20)
 
